@@ -9,3 +9,6 @@ const even = number.filter((num) => {
   return num % 2 === 0;
 });
 console.log(even);
+
+
+// checking the git setup
